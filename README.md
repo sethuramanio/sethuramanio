@@ -9,4 +9,6 @@
 - 📫 I am always intrested to talk to new people and learn from them , teach them what I know and work with them collaboratively. You can feel free to reach out to me on sethuramantv001@gmail.com
 - 😄 ⚡ Fun Fact: I love to play cricket. It was my crazy childhood dream to become a cricketer. 
 
+If you want to know more about me, Feel free to check out my [Linkedin](https://www.linkedin.com/in/sethuraman-t-v-64099b137/)
+
 Happy Community Coding!!!
