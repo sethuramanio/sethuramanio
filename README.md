@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Deep generative modelling and genetic algorithm in IIT Madras- Robert Bosch Data Center for Data Science and Artificial Intelligence
+- 🔭 I’m currently working on Deep generative modelling, Reinforcement Learning and genetic algorithm in IIT Madras- Robert Bosch Data Center for Data Science and Artificial Intelligence. 
 - ⚡ I am also working in the project **Reality Aware Networks** funded by National Science Foundation( **NSF**) . Feel free check out the Project webpage [here](https://ashwinashok.github.io/realityawarenetworks/)
 - ⚡ I am currently serving as the Data Science Researcher at the MIT Media lab COVID 19 research spin off. 
 - 🌱 I’m currently learning Computational Neuroscience and Applied Mathmetics to solve fundamental problems in Machine learning and AI
