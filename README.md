@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<h1 align="center">Hi 👋, I'm Sethu</h1>
+<h1 align="center">Hi there👋, I'm Sethu</h1>
 <h3 align="center">I am a AI/ML Researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethuramanio&label=Profile%20views&color=0e75b6&style=flat" alt="sethuramanio" /> </p>
@@ -16,9 +13,13 @@
 
 - 🤝 I’m happy to mentor students with **Career Guidance and Research projects to the best of my Knowledge.**
 
-- 📝 I regularly write articles on [https://sethuramantv001.medium.com/](https://sethuramantv001.medium.com/)
+- 📝 Sometimes I write my thoughts on [https://sethuramantv001.medium.com/](https://sethuramantv001.medium.com/)
 
-- 📫 How to reach me **sethuramantv001@gmail.com**
+- 🔭 I am currently working with IIT Madras- RBCDSAI(On Deep Generative Modelling) , PathCheck Foundation (epidemiological Modelling) , University of Cambridge (Andreas Bender Lab). 
+
+- 🌱 I previously worked in the project **Reality Aware Networks** funded by National Science Foundation( **NSF**) . Feel free check out the Project webpage [here](https://ashwinashok.github.io/realityawarenetworks/)
+
+- 📫 I am always intrested to talk to new people and learn from them , teach them what I know and work with them collaboratively. You can feel free to reach out to me on **sethuramantv001@gmail.com**
 
 - ⚡ Fun fact **I love to play cricket. It was my crazy childhood dream to become a cricketer.**
 
@@ -28,6 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://in.linkedin.com/in/sethuraman-t-v-64099b137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/sethuraman-t-v-64099b137" height="30" width="40" /></a>
+<a href="https://instagram.com/sethu_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sethu_001" height="30" width="40" /></a>
 <a href="https://medium.com/@sethuramantv001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sethuramantv001" height="30" width="40" /></a>
 <a href="/medium.com/feed/@sethuramantv001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="medium.com/feed/@sethuramantv001" height="30" width="40" /></a>
 </p>
