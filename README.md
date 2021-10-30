@@ -21,7 +21,7 @@
 
 - 📫 I am always intrested to talk to new people and learn from them , teach them what I know and work with them collaboratively. You can feel free to reach out to me on **sethuramantv001@gmail.com**
 
-- ⚡ Fun fact **I love to play cricket. It was my crazy childhood dream to become a cricketer.**
+- ⚡ Fun facts **I love to play cricket. It was my crazy childhood dream to become a cricketer. I love the movie Taare Zameen Par and Zindagi Na Milega Dubaara. **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
