@@ -13,7 +13,7 @@
 
 - 🤝 I’m happy to mentor students with **Career Guidance and Research projects to the best of my Knowledge.**
 
-- 📝 Sometimes I write my thoughts on [https://sethuramantv001.medium.com/](https://sethuramantv001.medium.com/)
+- 📝 Sometimes I write my thoughts [here](https://sethuramantv001.medium.com/)
 
 - 🔭 I am currently working with IIT Madras- RBCDSAI(On Deep Generative Modelling) and PathCheck Foundation (epidemiological Modelling). 
 
