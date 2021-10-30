@@ -15,7 +15,7 @@
 
 - 📝 Sometimes I write my thoughts on [https://sethuramantv001.medium.com/](https://sethuramantv001.medium.com/)
 
-- 🔭 I am currently working with IIT Madras- RBCDSAI(On Deep Generative Modelling) , PathCheck Foundation (epidemiological Modelling) , University of Cambridge (Andreas Bender Lab). 
+- 🔭 I am currently working with IIT Madras- RBCDSAI(On Deep Generative Modelling) and PathCheck Foundation (epidemiological Modelling). 
 
 - 🌱 I previously worked in the project **Reality Aware Networks** funded by National Science Foundation( **NSF**) . Feel free check out the Project webpage [here](https://ashwinashok.github.io/realityawarenetworks/)
 
