@@ -13,9 +13,9 @@
 
 - 🤝 I’m happy to mentor students with **Career Guidance and Research projects to the best of my Knowledge.**
 
-- 📝 Sometimes I write my thoughts [here]
+- 📝 Sometimes I write my thoughts [here](https://sethuramantv001.medium.com/)
 
-- 🔭 I am currently working with IIT Madras- RBCDSAI and PathCheck Foundation (epidemiological Modelling). 
+- 🔭 I am currently working with IIT Madras- RBCDSAI, University of Cambridge and PathCheck Foundation (epidemiological Modelling). 
 
 - 🌱 I previously worked in the project **Reality Aware Networks** funded by National Science Foundation( **NSF**) . Feel free check out the Project webpage [here](https://ashwinashok.github.io/realityawarenetworks/)
 
