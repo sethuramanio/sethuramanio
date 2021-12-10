@@ -15,7 +15,7 @@
 
 - 📝 Sometimes I write my thoughts [here](https://sethuramantv001.medium.com/)
 
-- 🔭 I am currently working with IIT Madras- RBCDSAI, University of Cambridge and PathCheck Foundation (epidemiological Modelling). 
+- 🔭 I am currently working with Games 24x7 ,IIT Madras- RBCDSAI, University of Cambridge and PathCheck Foundation (epidemiological Modelling). 
 
 - 🌱 I previously worked in the project **Reality Aware Networks** funded by National Science Foundation( **NSF**) . Feel free check out the Project webpage [here](https://ashwinashok.github.io/realityawarenetworks/)
 
