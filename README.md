@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sethuramanio" alt="sethuramanio" /></a> </p>
 
-- 🔭 I’m currently working on **Research projects related to Computational/Cognitive Neuroscience and Machine learning**
+- 🔭 I’m currently working on **Research projects Video Understanding and Machine learning**
 
-- 🌱 I’m currently learning **Agent Based Models, FMRI data analysis, Disentanglement in generative models and Graph Neural Networks**
+- 🌱 I’m previously worked on **Agent Based Models, FMRI data analysis, Disentanglement in generative models and Graph Neural Networks**
 
 - 👯 I’m looking to collaborate on **I’m currently learning Computational Neuroscience and Applied Mathmetics to solve fundamental problems in Machine learning and AI**
 
